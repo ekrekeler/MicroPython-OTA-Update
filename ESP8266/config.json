@@ -1,0 +1,12 @@
+{
+    "update_domain": "github.com",
+    "update_repo": "ekrekeler/MicroPython-OTA-Update",
+    "update_path": "ESP8266",
+    "update_channel": "stable",
+    "release_only": false,
+    "prereleases": false,
+    "current_version": "v1.0.0",
+    "update_interval": 86400,
+    "last_updated": 0,
+    "last_checked": 0
+}
